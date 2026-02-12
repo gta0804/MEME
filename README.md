@@ -5,7 +5,7 @@
 <!-- <img src="https://img.shields.io/badge/License-MIT-blue" alt="license"> -->
 
 <div>
-      <a href="https://https://scholar.google.com/citations?user=jk4YCOgAAAAJ&hl=zh-CN//" target="_blank">Taian Guo</a><sup>1,2</sup>,
+      <a href="https://scholar.google.com/citations?user=jk4YCOgAAAAJ&hl=zh-CN//" target="_blank">Taian Guo</a><sup>1,2</sup>,
       <a href="https://eachsheep.space/" target="_blank">Haiyang Shen</a><sup>*1</sup>,
       <a href="https://scholar.google.com/citations?user=ZNE_22wAAAAJ&hl=en" target="_blank">Junyu Luo</a><sup>1</sup>,
       <a href="" target="_blank">Zhongshi Xing</a><sup>3</sup>,
